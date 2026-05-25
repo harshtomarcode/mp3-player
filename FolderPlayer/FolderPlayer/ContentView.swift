@@ -15,7 +15,7 @@ struct ContentView: View {
                 Spacer()
             }
             .padding()
-            .navigationTitle("Folder Player")
+            .navigationTitle("Player")
             .fileImporter(
                 isPresented: $isFilePickerPresented,
                 allowedContentTypes: [.mpeg4Audio, .mp3, .audio],

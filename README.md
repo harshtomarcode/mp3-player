@@ -1,4 +1,4 @@
-# Folder Player
+# Player
 
 A simple, ad-free iOS MP3 player for personal audio files stored in the iPhone **Files** app (including downloads saved in Folders).
 
